@@ -1,0 +1,7 @@
+{
+  "name": "ReLoop - Campus Sharing & Rental Platform",
+  "description": "A campus platform for students to rent, borrow, or give away items, featuring trust scores, safe handover workflows, and a wanted board.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
